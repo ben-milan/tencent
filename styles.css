@@ -104,6 +104,10 @@ ul.timeline-3 > li:before {
 
 /*iPhone-Screen */
 @media only screen and (max-width: 430px) {
+    *{
+        text-align: center;
+    }
+    
     #title-index{
         padding: 0 !important;
         padding-bottom: 30px !important;
